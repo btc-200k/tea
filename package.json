@@ -1,0 +1,22 @@
+{
+  "name": "@btc-200k/hello-tea",
+  "version": "1.0.2",
+  "description": "Hello Tea",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/btc-200k/hello-tea.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "btc-200k",
+  "license": "MIT",
+  "dependencies": {
+    "cowsay": "^1.6.0",
+    "hello-armadillo": "^1.0.0",
+    "hello-banana": "^1.0.0"
+    
+  }
+}
